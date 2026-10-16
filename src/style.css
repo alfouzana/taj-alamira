@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+@theme {
+  --color-gold: #c9a24a;
+  --color-gold-light: #e2c47a;
+  --color-ink: #12100d;
+  --color-ink-soft: #1c1914;
+  --font-sans: "Tajawal", ui-sans-serif, system-ui, sans-serif;
+  --font-display: "Reem Kufi", "Tajawal", serif;
+}
+
+html { scroll-behavior: smooth; }
